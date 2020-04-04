@@ -1,4 +1,4 @@
-﻿# OpenGL experiments
+﻿# OpenGL playground
 
 
 ## Set up
