@@ -13,8 +13,6 @@ struct Triangle
 	Vert2D v1, v2, v3;
 };
 
-const auto vertexShader = R"str()str";
-
 int main(int argc, char** argv)
 {
 	GLFWwindow* win;
