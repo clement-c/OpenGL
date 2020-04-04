@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_HelloModernWorld", "02_HelloModernWorld\02_HelloModernWorld.vcxproj", "{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -26,6 +28,14 @@ Global
 		{553A919F-EFE5-4F01-AD33-0908A96D19B4}.Release|x64.Build.0 = Release|x64
 		{553A919F-EFE5-4F01-AD33-0908A96D19B4}.Release|x86.ActiveCfg = Release|Win32
 		{553A919F-EFE5-4F01-AD33-0908A96D19B4}.Release|x86.Build.0 = Release|Win32
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Debug|x64.ActiveCfg = Debug|x64
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Debug|x64.Build.0 = Debug|x64
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Debug|x86.Build.0 = Debug|Win32
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Release|x64.ActiveCfg = Release|x64
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Release|x64.Build.0 = Release|x64
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Release|x86.ActiveCfg = Release|Win32
+		{1E82D942-590F-4173-B3D9-BA9AA7D8BE18}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
